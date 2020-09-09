@@ -1,0 +1,13 @@
+# ANONYMPUS FB Termux
+
+<ul>
+<li><code>pkg install git python2</code></li>
+<li><code>pip2 install --upgrade pip</code></li>
+<li><code>git clone https://github.com/alfianzidny/anonymousfb</code></li>
+<li><code>cd anonimousfb/code></li>
+<li><code>pip2 install -r requirements.txt</code></li>
+<li><code>python2 fb.py</code></li>
+</ul>
+<br />
+<br />'
+cunay nay nah is in the house yo ID
